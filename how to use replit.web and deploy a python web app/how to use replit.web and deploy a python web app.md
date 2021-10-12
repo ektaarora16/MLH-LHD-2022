@@ -61,6 +61,8 @@ This is useful for prototyping or checking how things work, but for any serious 
 
 Your web application must live somewhere other than your own desktop or laptop. A production environment is the canonical version of your current application and its associated data.
 
+So how does the creation of a deployment plan work? First, the project manager creates a deployment plan. After that, the project team reviews it, before deployment. The project schedule allots time for each activity related to the project. And teams can get insight into the process by referring to the deployment planning framework during deployment.
+
 # Why Deploy Machine Learning Models?
  
 The deployment of machine learning models is the process of making models available in production where web applications, enterprise software and APIs can consume the trained model by providing new data points and generating predictions.
