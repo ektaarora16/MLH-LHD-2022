@@ -25,6 +25,8 @@ You'll probably spend most of your time using this pane. It's a text editor wher
 # Right pane: output sandbox
 This is where you'll see your code in action. All output that your program produces will appear in this pane, and it also acts as a quick sandbox to run small pieces of code, which we'll look at more later.
 Run button. If you click the big green run button, your code will be executed and the output will appear on the right.
+All output that your program produces will appear in this pane, and it also acts as a quick sandbox to run small pieces of code, which we'll look at more later.
+Run button. If you click the big green run button, your code will be executed and the output will appear on the right.
 
 # Menu bar
 This lets you control what you see in the main left pane (pane 1). By default, you'll see the files that make up your project but you can use this bar to view other things here too by clicking on the various icons. We'll take a look at these options later.
