@@ -94,3 +94,11 @@ Continuous deployment at Instagram is the story of how their deployment process 
 Stack Overflow's guide on how they do deployment is an awesome in-depth read covering topics ranging from git branching to database migrations.
 
 TestDriven.io shows how to deploy a microservices architecture that uses Docker, Flask, and React with container orchestration on Amazon ECS.
+
+## Contributors 
+
+- Ekta Arora 
+- Shrejal Singh
+- Aaquib Ali 
+- Ruthvik Kanukunta
+
